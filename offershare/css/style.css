@@ -419,6 +419,21 @@ Footer
 
 
 /* ==========================================================================
+Offer Create
+========================================================================== */ 
+.offer-form input[type="text"], .offer-form textarea { color: #FFF; border: none; outline: none; width: 100%; display: block; margin-bottom: 15px; transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -webkit-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; border-radius: 0; height: auto; background: #111; font-size: 13px; padding:10px 15px;}
+.offer-form textarea { min-height: 200px;}
+.offer-form button { text-align: center; color: #fff; padding: 10px 15px; background: transparent; border: 2px solid #FFF; transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -webkit-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; font-weight: bold; border-radius: 0;}
+.cffer-form button i { color: #fff; font-size: 24px;}
+.offer-form button:hover{ background:#FFF; border-color: #FFF; color: #1a1a1a;}
+.offer-form .form-group {margin-bottom: 0;}
+
+
+.form-process-contact {font-weight: bold; color: #FFF; text-align: right;}
+.form-process-contact p {margin: 20px 0; margin-bottom: 0;}
+.form-process-contact i {color: #00a8d6; margin-right: 10px;}
+
+/* ==========================================================================
 Contact
 ========================================================================== */ 
 .contact-form input[type="text"], .contact-form textarea { color: #FFF; border: none; outline: none; width: 100%; display: block; margin-bottom: 15px; transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -webkit-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; border-radius: 0; height: auto; background: #111; font-size: 13px; padding:10px 15px;}
